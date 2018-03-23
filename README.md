@@ -3,7 +3,7 @@
 Prerequisite Tools
 1. maven
 2. Git bash
-3. SPringToolSuite
+3. SpringToolSuite
 
 
 Local setup 
